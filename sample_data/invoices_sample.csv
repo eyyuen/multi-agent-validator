@@ -1,0 +1,51 @@
+invoice_id,vendor_name,invoice_date,due_date,amount,currency,category,status,approved_by
+INV-1000,Microsoft,2024-11-23,2024-12-11,7544.73,SGD,Office Supplies,Approved,alice.tan
+INV-1001,Amazon,2024-12-12,2025-01-19,6109.68,SGD,Software Subscription,Pending,bob.lim
+INV-1002,Microsoft,2024-04-29,2024-05-30,5831.83,EUR,IT Equipment,Paid,bob.lim
+INV-1003,Lazada,2024-08-17,2024-09-19,8189.59,SGD,Office Supplies,Paid,carol.ng
+INV-1004,Singtel,2024-05-22,2024-06-10,9593.52,USD,Software Subscription,Pending,david.koh
+INV-1000,DHL,2024-02-19,2024-03-16,6235.4,SGD,IT Equipment,Paid,alice.tan
+INV-1006,Lazada,2024-07-12,2024-07-29,8379.34,EUR,Logistics,Approved,alice.tan
+INV-1007,Singtel,2024-01-24,2024-02-29,7844.15,SGD,Office Supplies,Pending,david.koh
+INV-1008,DHL,2024-05-22,2024-06-20,2045.21,USD,Office Supplies,Rejected,alice.tan
+INV-1009,Grab,2024-11-07,2024-12-12,5574.33,SGD,Office Supplies,Paid,david.koh
+INV-1010,,2024-05-18,2024-07-01,7003.84,SGD,Office Supplies,Pending,carol.ng
+INV-1011,Amazon,2024-07-24,2024-08-16,2504.34,EUR,IT Equipment,Rejected,bob.lim
+INV-1012,KPMG,2024-12-01,2024-12-31,8904.49,EUR,Consulting,Approved,carol.ng
+INV-1013,Lazada,2024-03-12,2024-04-03,7596.63,USD,Marketing,Paid,carol.ng
+INV-1014,Deloitte,2024-04-22,2024-05-11,1363.64,SGD,Software Subscription,Approved,bob.lim
+INV-1015,Amazon,2024-12-14,2025-01-11,-999.0,EUR,Consulting,Rejected,alice.tan
+INV-1016,Amazon,2024-12-14,2025-01-21,6976.25,EUR,Logistics,Rejected,alice.tan
+INV-1017,Grab,2024-05-30,2024-06-27,4810.38,EUR,IT Equipment,Rejected,bob.lim
+INV-1018,Amazon,2024-09-16,2024-10-30,8769.93,USD,IT Equipment,Approved,bob.lim
+INV-1019,Grab,2024-07-10,2024-08-18,5624.1,EUR,Software Subscription,Rejected,david.koh
+INV-1020,DHL,2024-01-10,2023-01-01,8847.86,USD,Office Supplies,Pending,bob.lim
+INV-1021,Amazon,2024-10-17,2024-12-01,1313.71,USD,Software Subscription,Approved,bob.lim
+INV-1022,Grab,2024-12-03,2025-01-02,3018.04,EUR,Consulting,Approved,bob.lim
+INV-1023,KPMG,2024-12-31,2025-01-24,9953.92,EUR,Logistics,Paid,david.koh
+INV-1024,Singtel,2024-03-02,2024-03-24,1108.25,SGD,Marketing,Approved,bob.lim
+INV-1025,Microsoft,2024-01-04,2024-01-21,2674.95,SGD,Logistics,Panding,bob.lim
+INV-1026,Deloitte,2024-05-22,2024-06-27,2535.25,SGD,IT Equipment,Paid,bob.lim
+INV-1027,KPMG,2024-08-30,2024-10-09,2308.89,SGD,IT Equipment,Paid,carol.ng
+INV-1028,Deloitte,2024-08-04,2024-09-01,8706.45,SGD,IT Equipment,Pending,alice.tan
+INV-1029,DHL,2024-07-25,2024-09-01,8105.63,SGD,Office Supplies,Approved,bob.lim
+INV-1030,Grab,2024-10-01,2024-10-30,4507.88,XXX,Consulting,Approved,alice.tan
+INV-1031,Amazon,2024-08-14,2024-09-23,980.59,EUR,Software Subscription,Pending,bob.lim
+INV-1032,Deloitte,2024-03-26,2024-04-23,5072.9,USD,Software Subscription,Approved,david.koh
+INV-1033,Lazada,2024-01-02,2024-01-29,9301.92,USD,Logistics,Paid,david.koh
+INV-1034,Lazada,2024-03-20,2024-04-10,2568.16,SGD,Marketing,Pending,carol.ng
+INV-1035,Deloitte,2024-01-30,2024-02-15,45000.0,EUR,Office Supplies,Pending,alice.tan
+INV-1036,Amazon,2024-04-05,2024-04-22,6914.52,SGD,Consulting,Pending,bob.lim
+INV-1037,Microsoft,2024-10-23,2024-11-26,6384.12,USD,IT Equipment,Rejected,carol.ng
+INV-1038,DHL,2024-04-14,2024-05-20,2767.52,USD,Office Supplies,Rejected,david.koh
+INV-1039,Amazon,2024-06-10,2024-07-24,588.5,EUR,Marketing,Pending,alice.tan
+INV-1040,Amazom,2024-10-02,2024-10-23,1758.34,USD,Software Subscription,Approved,carol.ng
+INV-1041,Deloitte,2024-05-25,2024-06-14,8420.58,EUR,Logistics,Pending,carol.ng
+INV-1042,Grab,2024-12-05,2024-12-23,3012.43,SGD,IT Equipment,Approved,carol.ng
+INV-1043,Singtel,2024-05-24,2024-06-27,7317.32,SGD,IT Equipment,Rejected,david.koh
+INV-1044,Microsoft,2024-05-08,2024-06-20,1376.84,USD,Logistics,Pending,alice.tan
+INV-1045,Singtel,2024-06-19,2024-07-28,250000.0,USD,Office Supplies,Paid,david.koh
+INV-1046,Amazon,2024-10-14,2024-10-29,1214.82,EUR,Office Supplies,Pending,carol.ng
+INV-1047,Grab,2024-10-25,2024-11-26,4582.97,SGD,Logistics,Rejected,alice.tan
+INV-1048,Singtel,2024-07-02,2024-07-23,6835.87,USD,Marketing,Paid,unknown.user
+INV-1049,Grab,2024-05-01,2024-06-12,9773.96,SGD,Consulting,Pending,bob.lim
