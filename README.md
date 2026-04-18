@@ -12,6 +12,8 @@ architecture where a dedicated AI agent reasons about semantic anomalies
 that rules alone cannot detect, such as vendor impersonation, unusual 
 spending patterns, and category mismatches.
 
+![Report Preview](assets/report_preview.png)
+
 ## System Architecture
 
 Input (CSV / Excel)
