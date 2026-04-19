@@ -15,7 +15,7 @@ spending patterns, and category mismatches.
 ![Report Preview](assets/report_preview.png)
 
 ## System Architecture
-
+```
 Input (CSV / Excel)
 │
 ▼
@@ -48,7 +48,7 @@ Input (CSV / Excel)
 │
 ▼
 Output: validation_report.xlsx
-
+```
 ## What It Detects
 
 ### Rule-Based (Agent 2)
@@ -89,6 +89,7 @@ The generated Excel report contains 4 sheets:
 | OpenPyXL | Excel report generation |
 
 ## Project Structure
+```
 multi-agent-validator/
 │
 ├── agents/
@@ -108,6 +109,7 @@ multi-agent-validator/
 ├── main.py                     # Entry point
 ├── requirements.txt
 └── README.md
+```
 
 ## Setup
 
