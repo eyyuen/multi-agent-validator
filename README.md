@@ -124,7 +124,7 @@ cd multi-agent-validator
 pip install -r requirements.txt
 
 # Set your Anthropic API key
-export ANTHROPIC_API_KEY=your_api_key_here
+set ANTHROPIC_API_KEY=your_api_key_here
 
 # Run the pipeline
 python main.py
